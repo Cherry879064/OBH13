@@ -7,3 +7,6 @@ function intro(){
 function intro2(){
     console.log("hello")
 }
+function wer(){
+    
+}
